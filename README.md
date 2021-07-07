@@ -1,2 +1,3 @@
 # .github
-Community health files for the @jupyterlite organization 
+
+Community health files for the @jupyterlite organization
