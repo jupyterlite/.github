@@ -13,3 +13,7 @@
 <h2 align="center">
   Wasm powered Jupyter running in the browser 💡
 </h2>
+
+<h2 align="center">
+  ✨ <a href="https://jupyterlite.github.io/demo">Try it in your browser</a> ✨
+</h2>
