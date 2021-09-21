@@ -5,3 +5,11 @@
       width="256"
     />
 </h1>
+
+<h1 align="center">
+  JupyterLite  
+</h1>
+
+<h2 align="center">
+  Wasm powered Jupyter running in the browser 💡
+</h2>
