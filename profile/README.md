@@ -17,3 +17,7 @@
 <h2 align="center">
   ✨ <a href="https://jupyterlite.github.io/demo">Try it in your browser</a> ✨
 </h2>
+
+<h2 align="center">
+  ✨ <a href="https://github.com/jupyterlite/demo">Create your Jupyter Website 🚀</a> ✨
+</h2>
