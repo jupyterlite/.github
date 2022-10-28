@@ -19,5 +19,5 @@
 </h2>
 
 <h2 align="center">
-  ✨ <a href="https://github.com/jupyterlite/demo">Create your Jupyter Website 🚀</a> ✨
+  🚀 <a href="https://github.com/jupyterlite/demo">Create your Jupyter Website</a> 🚀
 </h2>
